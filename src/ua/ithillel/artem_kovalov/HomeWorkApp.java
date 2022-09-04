@@ -1,4 +1,4 @@
-package ua.ithillel.artem.kovalov;
+package ua.ithillel.artem_kovalov;
 
 import java.time.LocalDate;
 
